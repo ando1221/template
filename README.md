@@ -3,7 +3,7 @@
 ## 環境構築
 #### 1. リポジトリをクローン
 ```bash
-git clone git@github.com:ando1221/flea-market.git
+git clone git@github.com:ando1221/template.git
 cd flea-market
 ```
 #### 2. Dockerコンテナをビルド・起動
